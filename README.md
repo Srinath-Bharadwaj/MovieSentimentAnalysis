@@ -16,7 +16,7 @@ This project demonstrates text preprocessing, EDA, feature extraction, and class
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - Python  
 - Scikit-learn  
